@@ -593,7 +593,7 @@ class _MainLayoutState extends State<MainLayout> {
       color: color,
       child: Center(
         child: Text(
-          "© 2026 Digital Archive Management System. All Rights Reserved.",
+          "© 2026 Digital Archive Management System. All Rights Reserved -Eci-.",
           style: GoogleFonts.nunito(
               color: Colors.white,
               fontSize: 13,
